@@ -59,7 +59,7 @@ const Education = () => {
                  <Typography sx={{ fontSize: "18px", color: "aqua", paddingTop: "7px" }}>Elearn Infotech</Typography>
                  <Typography sx={{ fontSize: "15px", color: "#fff", opacity: ".7", paddingTop: "7px" }}>Complete Certification Course in Fullstack including
                     Html,css,javascript,
-                    ReactJS and NodeJS,ExpressJS and Mongodb in Private Institute</Typography>
+                    ReactJS and NodeJS,ExpressJS and Mongodb in Elearn Infotech,Hyderabad</Typography>
 
                </Box>
        </Grid>
